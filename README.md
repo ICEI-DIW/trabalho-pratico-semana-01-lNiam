@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucca
+Matricula: 885064
 
 ## Tela de inspeção com navegador
-
+![alt text](<Captura de tela 2025-02-23 140306.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](image.png)
